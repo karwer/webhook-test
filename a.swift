@@ -1,3 +1,5 @@
+class Test {
+
 func test() {
 
   if true {
@@ -14,3 +16,23 @@ func test() {
   }
 
 }
+
+func testWhile() {
+
+while 1 == 1 {
+  while 1 == 1 {
+    while 1 == 1 {
+      while 1 == 1 {
+        while 1 == 1 {
+          while 1 == 1 {
+          }
+        }
+      }
+    }
+  }
+} 
+
+}
+
+}
+
